@@ -1,0 +1,12 @@
+# Local scratch and generated artifacts
+tmp/
+.superpowers/
+artifacts/
+docs/superpowers/
+*.log
+*.tmp
+~$*
+
+# OS metadata
+.DS_Store
+Thumbs.db
